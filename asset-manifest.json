@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sheep-counter/static/css/main.e320c5eb.css",
+    "main.css": "/sheep-counter/static/css/main.0b94c580.css",
     "main.js": "/sheep-counter/static/js/main.10ea6074.js",
     "static/media/nav-sheep.png": "/sheep-counter/static/media/nav-sheep.9c059358c497b66b41ec.png",
     "static/media/sheep.png": "/sheep-counter/static/media/sheep.d06a6dc2cbdfe4ca23a4.png",
@@ -8,11 +8,11 @@
     "static/media/githubIcon.svg": "/sheep-counter/static/media/githubIcon.cbbdd0c902376ddb076c5a0cd253936d.svg",
     "static/media/linkedin-filled.svg": "/sheep-counter/static/media/linkedin-filled.d09d64fe30b941c2d5dba4695179f496.svg",
     "index.html": "/sheep-counter/index.html",
-    "main.e320c5eb.css.map": "/sheep-counter/static/css/main.e320c5eb.css.map",
+    "main.0b94c580.css.map": "/sheep-counter/static/css/main.0b94c580.css.map",
     "main.10ea6074.js.map": "/sheep-counter/static/js/main.10ea6074.js.map"
   },
   "entrypoints": [
-    "static/css/main.e320c5eb.css",
+    "static/css/main.0b94c580.css",
     "static/js/main.10ea6074.js"
   ]
 }
